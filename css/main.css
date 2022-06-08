@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body {
+    background: red;
+}
+
 #guesses-board {
     width: 340px;
     height: 400px;
